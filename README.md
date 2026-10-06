@@ -22,4 +22,4 @@ Inventory and stock management system focused on real business operations.
 ## Links
 
 - Portfolio: https://carlos-eduardo-dev.vercel.app/
-- LinkedIn: coloque-seu-link-aqui
+- LinkedIn:  https://www.linkedin.com/in/carlos-eduardo-miranda-souza/
