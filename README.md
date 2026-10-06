@@ -1,16 +1,25 @@
-## Hi there 👋
+# Carlos Eduardo
 
-<!--
-**carlosmsdev/carlosmsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I build web applications, systems and APIs with a focus on clean interfaces and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+JavaScript · TypeScript · React · Next.js · Node.js · Java · Spring Boot · PostgreSQL · MySQL
+
+## Featured Projects
+
+### Portfolio
+Personal portfolio built with Next.js and Tailwind CSS.
+
+### Marcenaria Souza
+Website developed for a woodworking business.
+
+### Mundo Office Stock
+Inventory and stock management system focused on real business operations.
+
+## Links
+
+- Portfolio: https://carlos-eduardo-dev.vercel.app/
+- LinkedIn: coloque-seu-link-aqui
